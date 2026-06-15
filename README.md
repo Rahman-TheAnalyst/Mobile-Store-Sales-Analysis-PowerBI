@@ -1,126 +1,167 @@
-📱 Mobile Store Sales Dashboard | Power BI
-📌 Project Overview
+# 📱 Mobile Store Sales Dashboard | Power BI
 
-This Power BI dashboard provides a comprehensive analysis of mobile phone sales performance across multiple cities, brands, and payment methods. The dashboard helps business stakeholders monitor sales trends, customer behavior, product performance, and transaction patterns.
+## 📖 Overview
 
-📸 Dashboard Preview
+This Power BI dashboard provides a comprehensive analysis of mobile phone sales across different cities, brands, mobile models, and payment methods. The dashboard was developed to help stakeholders monitor sales performance, identify trends, understand customer behavior, and make data-driven business decisions.
 
-<img width="1215" height="718" alt="snapshot of Mobile store sales Dashboard" src="https://github.com/user-attachments/assets/e96ee02f-c524-4eea-bd21-3b2491ddacf5" />
+---
 
+## 📸 Dashboard Preview
 
-🎯 Business Objective
+![Mobile Store Sales Dashboard](snapshot%20of%20Mobile%20store%20sales%20Dashboard.png)
 
-The goal of this dashboard is to:
+---
 
-Monitor overall sales performance
-Track monthly and daily sales trends
-Identify top-performing mobile models
-Analyze city-wise sales distribution
-Understand customer ratings and satisfaction
-Evaluate payment method preferences
-Support data-driven business decisions
-📊 Key Performance Indicators (KPIs)
-Metric	Value
-Total Sales	769M
-Total Quantity Sold	19K
-Transactions	4K
-Average Sales Value	40K
-📈 Dashboard Features
-1. Sales Trend Analysis
-Monthly sales performance tracking
-Identification of peak and low sales periods
-Trend analysis across the year
-2. City-wise Sales Analysis
-Interactive map visualization
-Geographic sales distribution
-Regional performance comparison
-3. Mobile Model Performance
+## 🎯 Business Problem
 
-Top-selling mobile models:
+Mobile retailers generate large volumes of sales data from multiple products, cities, and payment channels. Without a centralized reporting solution, it becomes difficult to identify sales trends, top-performing products, customer preferences, and regional performance.
 
-iPhone SE
-OnePlus Nord
-Galaxy Note 20
-4. Brand Performance Analysis
+This dashboard addresses these challenges by providing an interactive and visually appealing reporting solution built in Power BI.
 
-Comparison of:
+---
 
-Apple
-Samsung
-OnePlus
-Vivo
-Xiaomi
+## 📊 Key Metrics
+
+| KPI                 | Value |
+| ------------------- | ----: |
+| Total Sales         |  769M |
+| Total Quantity Sold |   19K |
+| Total Transactions  |    4K |
+| Average Sales Value |   40K |
+
+---
+
+## 📈 Dashboard Features
+
+### Sales Trend Analysis
+
+* Monthly sales performance tracking
+* Seasonal trend identification
+* Revenue comparison across the year
+
+### Geographic Sales Analysis
+
+* Interactive city-wise sales visualization
+* Regional sales performance comparison
+* Location-based business insights
+
+### Mobile Model Performance
+
+Top-performing mobile models based on sales:
+
+* iPhone SE
+* OnePlus Nord
+* Galaxy Note 20
+
+### Brand Analysis
+
+Performance comparison of:
+
+* Apple
+* Samsung
+* OnePlus
+* Vivo
+* Xiaomi
 
 Based on:
 
-Total Sales
-Quantity Sold
-5. Customer Rating Analysis
-Rating distribution from 1 to 5
-Customer satisfaction insights
-6. Payment Method Analysis
+* Total Sales
+* Total Quantity Sold
 
-Transaction breakdown by:
+### Customer Ratings Analysis
 
-UPI
-Debit Card
-Cash
-Credit Card
-🛠 Tools & Technologies Used
-Power BI Desktop
-Power Query
-DAX
-Data Modeling
-Data Visualization
-Bing Maps Integration
-🧹 Data Preparation
+* Rating distribution from 1 to 5 stars
+* Customer satisfaction insights
 
-The dataset was cleaned and transformed using Power Query.
+### Payment Method Analysis
 
-Key steps included:
+Transaction distribution across:
 
-Handling missing values
-Data type conversion
-Data validation
-Data transformation
-Building relationships between tables
-📌 Insights
-Sales Performance
-Total sales reached 769M
-July recorded the highest monthly sales at 70M
-Product Performance
-iPhone SE generated the highest sales revenue
-OnePlus Nord and Galaxy Note 20 followed closely
-Customer Satisfaction
-Majority of customers provided a 5-star rating
-Payment Preferences
-UPI emerged as the most preferred payment method
-Geographic Analysis
-Major metropolitan cities contributed significantly to total sales
-🚀 Skills Demonstrated
-Data Cleaning
-Data Transformation
-Data Modeling
-DAX Measures
-Dashboard Development
-Business Intelligence
-KPI Reporting
-Data Visualization
-Data Storytelling
+* UPI
+* Debit Card
+* Credit Card
+* Cash
 
-📂 Repository Structure
+---
+
+## 🔍 Key Insights
+
+### Sales Performance
+
+* Total sales reached **769 Million**.
+* July recorded the highest monthly sales with **70 Million** in revenue.
+
+### Product Performance
+
+* iPhone SE emerged as the highest-selling mobile model.
+* Apple generated the highest overall sales among all brands.
+
+### Customer Behavior
+
+* Most customers provided positive ratings, indicating strong customer satisfaction.
+
+### Payment Preferences
+
+* UPI and Debit Card transactions accounted for a significant share of total payments.
+
+### Regional Analysis
+
+* Major metropolitan cities contributed the highest sales volumes.
+
+---
+
+## 🛠 Tools & Technologies Used
+
+* Power BI Desktop
+* Power Query
+* DAX
+* Data Modeling
+* Data Visualization
+* Bing Maps
+
+---
+
+## 💡 Skills Demonstrated
+
+* Data Cleaning
+* Data Transformation
+* Data Modeling
+* DAX Measures
+* Dashboard Development
+* Business Intelligence
+* KPI Reporting
+* Data Visualization
+* Data Storytelling
+
+---
+
+## 📂 Repository Structure
+
 Mobile-Store-Sales-Dashboard/
-│
+
 ├── Mobile Store Sales Dashboard.pbix
+
 ├── snapshot of Mobile store sales Dashboard.png
+
 ├── README.md
+
 └── Dataset.xlsx
 
-👨‍💻 Author
+---
 
-Mohammed Abdul Rahman
+## 👨‍💻 Author
+
+**Mohammed Abdul Rahman**
 
 MSc Computing & Technology
 Northumbria University London
 
-GitHub: https://github.com/Rahman-TheAnalyst
+📧 Email: [marahman.global@gmail.com](mailto:marahman.global@gmail.com)
+
+🔗 GitHub: https://github.com/Rahman-TheAnalyst
+
+---
+
+## 🚀 Project Outcome
+
+This project demonstrates my ability to transform raw sales data into meaningful business insights using Power BI. It showcases skills in data preparation, modeling, KPI development, and interactive dashboard design, making it suitable for Data Analyst, Business Intelligence, and Analytics Internship opportunities.
